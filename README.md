@@ -1,16 +1,22 @@
-# dreamsoft
+# Dream Soft Task
+![Flutter version](https://img.shields.io/badge/Flutter-Version%203.16.5-blue) ![Dart version](https://img.shields.io/badge/Dart-Version%203.2.3-blue) ![Dream Soft Task](https://img.shields.io/badge/Sample%20Version-Version%201.0.0-green)
 
-A new Flutter project.
+## Installation steps
 
-## Getting Started
+Open CMD where you want to clone the project & run the following commands
 
-This project is a starting point for a Flutter application.
+```
+git clone https://github.com/3bdelmonem/DREAMSOFT.git
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Android Studio](https://developer.android.com/studio/install) - How to install Android Studio
+- [VS Code](https://code.visualstudio.com/) - How to install VS Code
+- [Flutter](https://flutter.dev) - Flutter Official website
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Demo link on youtube]()
+
+
