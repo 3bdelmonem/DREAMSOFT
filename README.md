@@ -1,4 +1,4 @@
-# Dream Soft Task
+# Dreamsoft Task
 ![Flutter version](https://img.shields.io/badge/Flutter-Version%203.16.5-blue) ![Dart version](https://img.shields.io/badge/Dart-Version%203.2.3-blue) ![Dreamsoft Task](https://img.shields.io/badge/Dream%20Soft%20Task-Version%201.0.0-green)
 
 ## Installation steps
