@@ -1,5 +1,5 @@
 # Dream Soft Task
-![Flutter version](https://img.shields.io/badge/Flutter-Version%203.16.5-blue) ![Dart version](https://img.shields.io/badge/Dart-Version%203.2.3-blue) ![Dream Soft Task](https://img.shields.io/badge/Dream%20Soft%20Task-Version%201.0.0-green)
+![Flutter version](https://img.shields.io/badge/Flutter-Version%203.16.5-blue) ![Dart version](https://img.shields.io/badge/Dart-Version%203.2.3-blue) ![Dreamsoft Task](https://img.shields.io/badge/Dream%20Soft%20Task-Version%201.0.0-green)
 
 ## Installation steps
 
@@ -17,6 +17,4 @@ flutter run
 - [VS Code](https://code.visualstudio.com/) - How to install VS Code
 - [Flutter](https://flutter.dev) - Flutter Official website
 
-- [Demo link on youtube]()
-
-
+- [Demo link on youtube](https://youtu.be/ql_stLZHhHY)
