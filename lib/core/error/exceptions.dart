@@ -1,0 +1,1 @@
+class EmptyCahceException implements Exception {}

@@ -1,0 +1,19 @@
+const String iconsPath = "assets/icons/";
+
+const cartIcon = "${iconsPath}cart.svg";
+const deleteIcon = "${iconsPath}delete.svg";
+const drawerIcon = "${iconsPath}drawer.svg";
+const filterIcon = "${iconsPath}filter.svg";
+const homeIcon = "${iconsPath}home.svg";
+const leftArrowIcon = "${iconsPath}leftArrow.svg";
+const rightArrowIcon = "${iconsPath}rightArrow.svg";
+const loveIcon = "${iconsPath}love.svg";
+const mapIcon = "${iconsPath}map.svg";
+const notificationIcon = "${iconsPath}notification.svg";
+const profileIcon = "${iconsPath}profile.svg";
+const rightIcon = "${iconsPath}right.svg";
+const searchIcon = "${iconsPath}search.svg";
+const shopCartIcon = "${iconsPath}shopCart.svg";
+const starIcon = "${iconsPath}star.svg";
+const currentLocationIcon = "${iconsPath}currentLocation.png";
+const destinationLocationIcon = "${iconsPath}destinationLocation.png";
